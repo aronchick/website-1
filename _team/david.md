@@ -16,4 +16,4 @@ The constant shifts in front-end programming over the years and an intrinsic des
 
 ### Favorite tools
 
-Vim, Photoshop, Blender, and a good, old-fashioned shell prompt.
+Chrome (armed with LastPass) for almost everything, with VS Code and OneNote for random notes. Gmail/OWA with Gmail-keybindings are critical for processing mail quickly. For development, I use Kubeflow with Docker (for local development), Kubernetes (for cloud) and VS Code with exensions. Round it out with GitHub Actions and Azure Machine Learning when it's time to roll out to bigger scale.
